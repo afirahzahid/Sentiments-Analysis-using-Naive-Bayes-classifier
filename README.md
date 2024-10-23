@@ -1,16 +1,17 @@
 # Sentiment-Analysis-using-Naive-Bayes-classifier
+
 ### Overview
 This project performs sentiment analysis on a dataset of text reviews using the Naive Bayes classifier. The goal is to classify the reviews as positive or negative based on their content. The dataset consists of pre-labeled positive and negative reviews, where I apply text preprocessing techniques, followed by model training and evaluation.
 
 ### Dataset
 The dataset is structured as follows:
 - Train Set:
- -- Positive reviews: ./Dataset/train/pos
- -- Negative reviews: ./Dataset/train/neg
+  - Positive reviews: ./Dataset/train/pos
+  - Negative reviews: ./Dataset/train/neg
 - Test Set:
- -- Positive reviews: ./Dataset/test/pos
- -- Negative reviews: ./Dataset/test/neg
- -- Stop Words: A list of common stop words is provided in ./Dataset/stop_words.txt.
+  - Positive reviews: ./Dataset/test/pos
+  - Negative reviews: ./Dataset/test/neg
+  - Stop Words: A list of common stop words is provided in ./Dataset/stop_words.txt.
 ### Data Preprocessing
 The raw text data undergoes several preprocessing steps to prepare it for model training:
 
