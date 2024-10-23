@@ -41,8 +41,8 @@ The model's performance is evaluated using accuracy and a confusion matrix. The 
 - **Accuracy:** 82.43%
 
 - **Confusion Matrix:**
-[[10992  2884]
- [ 1508  9616]]
+    [[10992  2884]
+    [ 1508  9616]]
 
 ### Skills
 - **Programming Languages:**
